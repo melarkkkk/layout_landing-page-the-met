@@ -3,15 +3,16 @@ The Met Landing Page
 Description:
 This is a responsive landing page for “The Met” museum, created as part of a layout practice project. The page is built with a block-based structure using Sass for styling, following a minimalistic design approach.
 
+Based on the “The Met Landing” [figma design](https://www.figma.com/design/lSR1m42L9YwzQwzzxKwHpw/THE-MET?node-id=8590-29&p=f&t=JPeimOri41y4SKks-0)
+
 Features:
 
-Block-based SCSS structure (about-us, contacts, header, footer, etc.)
+- Block-based SCSS structure (about-us, contacts, header, footer, etc.)
 
-Responsive design for different screen sizes
+- Responsive design for different screen sizes
 
-Easy image integration using relative paths (../images)
+- Easy image integration using relative paths (../images)
 
-Based on the “The Met Landing” [figma design](https://www.figma.com/design/lSR1m42L9YwzQwzzxKwHpw/THE-MET?node-id=8590-29&p=f&t=JPeimOri41y4SKks-0)
 
 Technologies:
 
