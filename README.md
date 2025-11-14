@@ -40,7 +40,7 @@ src/
 └─ index.html # Landing page
 ```
 
-How to Run Locally:
+## How to Run Locally:
 
 1. Clone the repository:
 ```
