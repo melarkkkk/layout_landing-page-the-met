@@ -15,13 +15,13 @@ Based on the “The Met Landing” [figma design](https://www.figma.com/design/l
 
 Technologies:
 
-HTML5
+- HTML5
 
-CSS3 / Sass (SCSS)
+- CSS3 / Sass (SCSS)
 
-Block-based project structure
+- Block-based project structure
 
-Normalize.css for cross-browser consistency
+- Normalize.css for cross-browser consistency
 
 Project Structure:
 
