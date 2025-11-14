@@ -5,6 +5,10 @@ This is a responsive landing page for “The Met” museum, created as part of a
 
 Based on the “The Met Landing” [figma design](https://www.figma.com/design/lSR1m42L9YwzQwzzxKwHpw/THE-MET?node-id=8590-29&p=f&t=JPeimOri41y4SKks-0)
 
+## Demo:
+
+- [DEMO LINK](https://melarkkkk.github.io/layout_landing-page-the-met/)
+
 ## Features:
 
 - Block-based SCSS structure (about-us, contacts, header, footer, etc.)
@@ -62,7 +66,4 @@ npm run build-css
 
 5. Open index.html in your browser.
 
-## Demo:
-
-- [DEMO LINK](https://melarkkkk.github.io/layout_landing-page-the-met/)
 
