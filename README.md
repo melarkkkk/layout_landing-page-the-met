@@ -25,6 +25,7 @@ Normalize.css for cross-browser consistency
 
 Project Structure:
 
+```
 src/
 ├─ images/ # Project images
 ├─ scripts/ # JavaScript files
@@ -36,26 +37,29 @@ src/
 │ ├─ variables/ # SCSS variables
 │ └─ main.scss # Main stylesheet
 └─ index.html # Landing page
+```
 
 How to Run Locally:
 
-Clone the repository:
-
+1. Clone the repository:
+```
 git clone <repository_URL>
-
-Go to the project folder:
-
+```
+2. Go to the project folder:
+```
 cd layout_landing-page-the-met/src
-
-Install dependencies (if using a package manager for Sass/JS, e.g., npm):
-
+```
+3. Install dependencies (if using a package manager for Sass/JS, e.g., npm):
+```
 npm install
-
-Compile SCSS to CSS:
-
+```
+4. Compile SCSS to CSS:
+```
 npm run build-css
+```
+(or use any Sass compiler you prefer) 
 
-(or use any Sass compiler you prefer) 5. Open index.html in your browser.
+5. Open index.html in your browser.
 
 Demo:
 
