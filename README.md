@@ -58,12 +58,10 @@ cd layout_landing-page-the-met/src
 ```
 npm install
 ```
-4. Compile SCSS to CSS:
+4. Start the project:
 ```
-npm run build-css
+npm start
 ```
-(or use any Sass compiler you prefer) 
 
-5. Open index.html in your browser.
 
 
