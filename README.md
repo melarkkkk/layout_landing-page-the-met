@@ -11,7 +11,7 @@ Responsive design for different screen sizes
 
 Easy image integration using relative paths (../images)
 
-Based on the [“The Met Landing” figma design](https://www.figma.com/design/lSR1m42L9YwzQwzzxKwHpw/THE-MET?node-id=8590-29&p=f&t=JPeimOri41y4SKks-0)
+Based on the “The Met Landing” [figma design](https://www.figma.com/design/lSR1m42L9YwzQwzzxKwHpw/THE-MET?node-id=8590-29&p=f&t=JPeimOri41y4SKks-0)
 
 Technologies:
 
